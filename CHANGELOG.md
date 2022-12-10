@@ -1,3 +1,15 @@
+# v0.0.2 (Sat Dec 10 2022)
+
+#### ⚠️ Pushed to `main`
+
+- added inital template for mood diary ([@nullpackets](https://github.com/nullpackets))
+
+#### Authors: 1
+
+- [@nullpackets](https://github.com/nullpackets)
+
+---
+
 # v0.0.1 (Sat Dec 10 2022)
 
 :tada: This release contains work from a new contributor! :tada:
