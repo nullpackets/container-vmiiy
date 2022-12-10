@@ -2,9 +2,14 @@
 
 
 {% block header %}
-    Header
+    What's your mood today?
 {% endblock header %}
 
 {% block content %}
-    Content
+    <form>
+        <label for=""date">Date today</label>
+        <input id="date" type="date" name="date" />
+        <br />
+        <input type="submit" value="Submit" />
+    </form>
 {% endblock %}
