@@ -6,9 +6,12 @@
 {% endblock header %}
 
 {% block content %}
-    <form>
+    <form action="/save" method="POST">
         <label for=""date">Date today</label>
         <input id="date" type="date" name="date" />
+        <br />
+        <label for=""mood">Mood rating</label>
+        <input id="mood" type="number" name="mood" />
         <br />
         <input type="submit" value="Submit" />
     </form>

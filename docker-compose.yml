@@ -1,6 +1,11 @@
 services:
   app:
+    tty: true
+    stdin_open: true
+
     image: container-vmiiy
+    environment:
+      - FLASK_DEBUG=1
     build:
       context: ./src
     ports:
