@@ -1,3 +1,15 @@
+# v0.0.3 (Sat Dec 10 2022)
+
+#### ⚠️ Pushed to `main`
+
+- added /save endpoint ([@nullpackets](https://github.com/nullpackets))
+
+#### Authors: 1
+
+- [@nullpackets](https://github.com/nullpackets)
+
+---
+
 # v0.0.2 (Sat Dec 10 2022)
 
 #### ⚠️ Pushed to `main`
